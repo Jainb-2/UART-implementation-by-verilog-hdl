@@ -13,7 +13,7 @@ This UART implementation provides basic functionality for serial communication. 
 
 To install the tools on Ubuntu, run:
 
-```sh
+```sh```
 $> sudo apt-get install iverilog gtkwave
-Simulation
+##Simulation
 To run the testbenches for the UART modules, use the provided Makefile:
